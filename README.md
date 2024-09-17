@@ -14,6 +14,7 @@ Shift Baru: A
 
 ## Screenshot
 Contoh :
-![Lampiran Form]![Screenshot 2024-09-14 130742](https://github.com/user-attachments/assets/03e98d3a-b622-4f45-b90c-456a46d70c61)
-![Lampiran Hasil]![Screenshot 2024-09-14 130759](https://github.com/user-attachments/assets/f8107be0-66f1-4c13-ace0-1a34693135a5)
+![image](https://github.com/user-attachments/assets/2c4fd298-c904-4884-8b17-488ede50aea2)
+![image](https://github.com/user-attachments/assets/78d58f9c-a5fa-4890-8f0e-5757f0e532f1)
+
 
